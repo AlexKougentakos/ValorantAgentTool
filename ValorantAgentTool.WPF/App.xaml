@@ -1,0 +1,25 @@
+﻿<Application x:Class="ValorantAgentTool.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ValorantAgentTool.WPF">
+    <Application.Resources>
+         <ResourceDictionary>
+            <SolidColorBrush x:Key="BorderPrimary" Color="Gray"/>
+             
+            <SolidColorBrush x:Key="IslandBackgroundPrimary" Color="#343434"/>
+            <SolidColorBrush x:Key="IslandBackgroundSecondary" Color="#424242"/>
+
+            <SolidColorBrush x:Key="ButtonHovered" Color="#4a4a4a"/>
+            <SolidColorBrush x:Key="ButtonClicked" Color="#575757"/>
+
+            <SolidColorBrush x:Key="AccentMain" Color="#F94555"/>
+            <SolidColorBrush x:Key="AccentMainLighter" Color="#fa626f"/>
+
+            <SolidColorBrush x:Key="Text" Color="#f2f2f2"/>
+
+            <SolidColorBrush x:Key="WindowBackground" Color="#141414"/>
+            <SolidColorBrush x:Key="IslandSurroundBackground" Color="#222222"/>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
