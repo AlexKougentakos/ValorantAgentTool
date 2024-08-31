@@ -15,9 +15,9 @@ It has the ability to load the data either through the web by accessing the API,
 ### Why Valorant?
 ---
 
-Valorant is one of my favourite games, and the first game that ever made want to play so much of it.
+Valorant is one of my favorite games and the first game that made me want to play it extensively. 
 
-Another reason, is that working at Riot Games is one of my dreams, so it seemed fitting.
+Additionally, working at Riot Games has been a long-time dream of mine, so creating a tool centered around one of their games felt like the perfect fit.
 
 ![p](https://i.imgur.com/iqpWJl7.gif)
 
